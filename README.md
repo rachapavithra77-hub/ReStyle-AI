@@ -70,7 +70,7 @@ ReStyle AI provides an AI-powered platform where users can upload old clothing i
 
 ## 🎥 Project Demo Video
 
-[Watch the ReStyle AI Project Demo](ADD-YOUR-GOOGLE-DRIVE-VIDEO-LINK-HERE)
+[Watch the ReStyle AI Project Demo](https://drive.google.com/file/d/1lLNtcetYRT5ebg9pt1xJqZWg0Yzd6958/view?usp=sharing)
 
 ## 🛠️ Technologies Used
 
