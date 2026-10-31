@@ -60,7 +60,9 @@ ReStyle AI provides an AI-powered platform where users can upload old clothing i
 
 ![AI Suggestions](AI%20suggestions.png)
 
+### 3. AI Redesign Result
 
+![AI Redesign Result](restyle%20result.png)
 
 ### 5. Materials and DIY Tutorial
 
